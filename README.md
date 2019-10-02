@@ -1,6 +1,8 @@
 
 Decoding nature
+
 Professor Joerg Blumtritt
+
 Project #1 
 
 The idea that i've had when creating project #1 was to create an interative solar system I have recreated the attractor using Danial Shiffman's code from the "Nature of code" The attractor attracts objects depending on the mass of the object, basically created a gravitational center of the solar system, like the Sun in our solar system.
